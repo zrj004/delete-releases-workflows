@@ -1,5 +1,5 @@
 name: "delete-releases-workflows"
-author: "ophub"
+author: "zrj004"
 description: "Delete older releases and workflow runs"
 inputs:
   repo:
